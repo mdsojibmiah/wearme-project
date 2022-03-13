@@ -38,7 +38,9 @@
 @media (max-width: 576px) {
     
     .content{
-        margin-top: 13%;
+        margin-top: 25%;
+        align-items: center;
+        justify-content: center;
     }
     .content h1 {
         font-size: 60px;
