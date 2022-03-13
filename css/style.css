@@ -80,6 +80,8 @@ nav .logo img{
     color: #fff;
     margin-top: 6%;
     margin-left: 9%;
+    align-items: center;
+    justify-content: center;
 }
 .content h1{
     font-size: 100px;
